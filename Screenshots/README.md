@@ -722,6 +722,3 @@ The experiment demonstrated the basic features of Kubernetes using kind on Windo
 
 **Repository:** [Kubernetes Lab on Windows](https://github.com/Pavitra415/Kubernetes-Lab-on-Windows).
 
-**Repository:** [Kubernetes Lab on Windows](https://github.com/Vandana-45/Kubernetes-Lab-on-Windows)
-
-**Repository:** [Kubernetes Lab on Windows](https://github.com/Vandana-45/Kubernetes-Lab-on-Windows)
